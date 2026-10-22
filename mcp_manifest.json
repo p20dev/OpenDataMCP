@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-22T18:47:51.626865+00:00",
+  "mcp_repo": "https://git.p20.dev/christian/OpenDataMCP.git",
+  "servers": {
+    "cor": {
+      "total_files": 5,
+      "total_bytes": 33960130,
+      "files": [
+        {
+          "name": "build_db.py",
+          "rel_path": "cor/build_db.py",
+          "sha256": "5f9765da0254d67d93a3cbd360e8c93a443da38ea6b6ee8f9895277c2847c439",
+          "bytes": 9256
+        },
+        {
+          "name": "cor.db",
+          "rel_path": "cor/cor.db",
+          "sha256": "ca7eef09494967af3212449d8e9b8438df0d416f1ba9c36bbd557dba5dd24e2c",
+          "bytes": 33935360
+        },
+        {
+          "name": "README.md",
+          "rel_path": "cor/README.md",
+          "sha256": "80e3ad82218f6f9c9b1c98b9d2f9317151be1adcac61730c7aafa1f3897416a6",
+          "bytes": 3009
+        },
+        {
+          "name": "server.py",
+          "rel_path": "cor/server.py",
+          "sha256": "f9bdce1cb030a6fd493938eda5ca44ec23a5e0415bc17fa4fdc9ee49f75aba8f",
+          "bytes": 10972
+        },
+        {
+          "name": "test_tools.py",
+          "rel_path": "cor/test_tools.py",
+          "sha256": "eb0bd3cfddb8b50a22412da6087453fd14ea55bcf2668e0134650ec66f36e6c6",
+          "bytes": 1533
+        }
+      ]
+    }
+  }
+}
