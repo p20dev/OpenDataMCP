@@ -10,7 +10,7 @@
 Velkommen til **OpenDataMCP**-repositoriet. Dette arkiv indeholder officielle, produktionsklare **Model Context Protocol (MCP)** servere udarbejdet til AI-assistenter, agenter og sprogmodeller (Claude Desktop, Antigravity, Cursor, m.fl.).
 
 > **Type:** Færdige, selvstændige MCP-servere og SQLite-sprogdatabaser  
-> **Seneste synkronisering:** `2026-10-22 18:47:51 UTC`  
+> **Seneste synkronisering:** `2026-10-22 18:48:48 UTC`  
 > **Aktive MCP-servere:** `1` stk. (5 filer, 32.4 MB)
 
 ### 📂 Mappestruktur
@@ -73,7 +73,7 @@ Dansk sprog- og ordregisterserver baseret på Det Centrale Ordregister (COR) og 
 Welcome to **OpenDataMCP**. This repository distributes ready-to-run **Model Context Protocol (MCP)** servers tailored for AI assistants, agents, and LLMs (Claude Desktop, Cursor, Antigravity, and compatible MCP hosts).
 
 > **Type:** Production-ready MCP servers with pre-indexed SQLite databases  
-> **Last synchronized:** `2026-10-22 18:47:51 UTC`  
+> **Last synchronized:** `2026-10-22 18:48:48 UTC`  
 > **Active MCP servers:** `1` (5 files, 32.4 MB)
 
 ### 📂 Directory Layout
